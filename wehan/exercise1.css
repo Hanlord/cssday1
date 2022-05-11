@@ -30,8 +30,7 @@ div{
 #position {
     position: sticky;
     top:0px;
-    left: 900px;
-    border: 50px solid green;
+    border: 50px purple solid;
     
 }
 
