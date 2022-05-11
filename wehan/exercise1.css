@@ -1,0 +1,28 @@
+div{ 
+    border:2px dotted red; 
+    /*  solid  */
+    margin: 5px;
+}
+
+#second *{
+    visibility: hidden;
+}
+
+#third p {
+    visibility:hidden;
+}
+
+#fourth h1 {
+    visibility:hidden;
+}
+
+*{
+    visibility:hidden;
+}
+#sixth img{
+    visibility:visible;
+}
+
+*{
+    visibility:visible;
+}
