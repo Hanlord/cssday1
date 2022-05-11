@@ -4,7 +4,7 @@ div{
     margin: 5px;
 }
 
-#second *{
+/* #second *{
     visibility: hidden;
 }
 
@@ -20,7 +20,7 @@ div{
     visibility:hidden;
 }
 #sixth img{
-    visibility:visible;
+    visibility:visible; */
 }
 
 *{
